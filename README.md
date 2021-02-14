@@ -1,2 +1,2 @@
 # Boxel-Bluebound
-Santa Edition
+Ninja Edition
